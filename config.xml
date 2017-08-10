@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:gap="http://phonegap.com/ns/1.0"
+        id="org.danilonakabar.cenourapp"
+        version="1.0.0">
+
+        <name>Só de Cenoura</name>
+        <description>
+        Menu do restaurante Só de Cenoura.
+    	</description>
+
+	    <author href="http://danilonakabar.org" email="helpdesk@danilonakabar.org">
+	        Danilo Nakabar
+	    </author>
+	    /*app posição Retrato
+	    <preference name="orientation" value="portrait"/>
+	    /* full screen
+	    <preference name="fullscreen" value="true" />
+	    /* premissões necessaria do aplicativo
+	    <preference name="permissions" value="none" />
+	    /* plataformas android ios windows etc...
+	    <platform name="android" />
+
+		<icon src="imagens/icon.png" />
+		/* splascreen
+		<plugin name="cordova-plugin-splashscreen" />
+		<splash src="imagens/splash.png" />
+
+
+</widget>
